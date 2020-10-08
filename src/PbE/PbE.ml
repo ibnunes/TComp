@@ -24,8 +24,7 @@
  *   -> Aulas da UC Teoria da Computação;
  *   -> Apontamentos da UC de Processamento de Linguagens.
  *   -> Apontamentos da UC de Métodos de Programação III da Universidade do Minho.
- *   -> Código Haskell desenvolvido por João Saraiva (jas at di dot uminho dot pt) sob a licença LGPL
- *      (https://hackage.haskell.org/package/Strafunski-Sdf2Haskell-1.0.0.2/src/generator/CFG.hs)
+ *   -> Código Haskell desenvolvido por João Saraiva, da Universidade do Minho, sob a licença LGPL.
  * Exemplo de execução no final.
  *)
 
